@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+    color: white;
+    font-size: 12px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-decoration: underline;
+    padding:30px;
+}
